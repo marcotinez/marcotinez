@@ -1,21 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Marco Martínez</h1>
-<h3 align="center">Computer Science student | AI Enthusiast | University of Chile</h3>
+<h3 align="center">Computer Science student | University of Chile</h3>
 
 ---
-
 - 5th year student of **Computer Science** at the **University of Chile**.
 - Currently working at the **Vicerrectoría de Tecnología de la Información**, leveraging AI to automate and optimize institutional processes.
-- Interested in **Artificial Intelligence**, with a focus on machine learning and its practical applications.
-
----
-
-<h2 align="center">📚 About Me</h2>
-
-- 🔍 Exploring the intersection of software development, systems engineering, and artificial intelligence.
-- 🤖 Passionate about leveraging AI to solve real-world problems.
-- 📈 Continuously learning to improve my programming skills, data analysis, and becoming a better person.
-
-
 ---
 
 <h2 align="center">🛠️ My Tech Stack</h2>
