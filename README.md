@@ -6,25 +6,24 @@ Actualmente, trabajo en la **Vicerrectoría de Tecnología de la Información (V
 
 ---
 
-### 🎯 Mis Intereses Principales
+### Mis Intereses Principales
 
 * 🤖 **Inteligencia Artificial**: (Machine Learning, Deep Learning, NLP)
 * 🕸️ **Desarrollo Web**: (Frontend, Backend, APIs Rest)
 * ⚡ **Optimización de Algoritmos**
-* 🌱 Siempre abierto a colaborar en proyectos con **impacto social y tecnológico**.
+* Siempre abierto a colaborar en proyectos con **impacto social y tecnológico**.
 
-### 🛠️ Mi Stack Tecnológico (Sugerencia)
+### 🛠️ Mi Stack Tecnológico
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
   
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
-
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white" alt="Astro" />
+  
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
 </p>
 
