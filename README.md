@@ -1,16 +1,10 @@
 ## Hola 👋, soy Marco Martínez
 
-Soy estudiante de **5º año** de **Ciencias de la Computación** en la **Universidad de Chile**.
+Soy estudiante de último año de **Ciencias de la Computación** en la **Universidad de Chile**.
 
 Actualmente, trabajo en la **Vicerrectoría de Tecnología de la Información (VTI)**, donde aplico **Inteligencia Artificial** para optimizar procesos institucionales.
 
 ---
-
-### Mis Intereses Principales
-
-* **Inteligencia Artificial**: (Machine Learning, Deep Learning, NLP)
-* **Desarrollo Web**: (Frontend, Backend, APIs Rest)
-* Siempre abierto a colaborar en proyectos con **impacto social y tecnológico**.
 
 ### Mi Stack Tecnológico
 
