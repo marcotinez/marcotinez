@@ -8,10 +8,10 @@
 **Software Engineer · IA en VTI · Fullstack Developer**
 
 <a href="mailto:marco.martinez.s@ug.uchile.cl">
-  <img src="https://img.shields.io/badge/-marco.martinez.s@ug.uchile.cl-EA4335?style=social&logo=gmail" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-marco.martinez.s@ug.uchile.cl?style=social&logo=gmail" alt="Email" />
 </a>
 <a href="https://www.linkedin.com/in/marcotinez">
-  <img src="https://img.shields.io/badge/-marcotinez-0A66C2?style=social&logo=linkedin" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-marcotinez?style=social&logo=linkedin" alt="LinkedIn" />
 </a>
 
 </div>
