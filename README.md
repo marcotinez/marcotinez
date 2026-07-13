@@ -5,7 +5,7 @@
 
 ## Marco Martínez
 
-**Software Engineer · IA en VTI · Fullstack Developer**
+**Ingeniero de Software · IA en VTI · Fullstack Developer**
 
 <a href="mailto:marco.martinez.s@ug.uchile.cl">
   <img src="https://img.shields.io/badge/Email-marco.martinez.s@ug.uchile.cl?style=social&logo=gmail" alt="Email" />
